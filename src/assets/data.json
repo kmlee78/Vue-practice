@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "product": "방배동",
+        "price": 30,
+        "place": "방배동 입니다",
+        "img": "./assets/img1.jpg"
+    },
+    {
+        "id": 2,
+        "product": "신림동",
+        "price": 40,
+        "place": "신림동 입니다",
+        "img": "./assets/img2.jpg"
+    },
+    {
+        "id": 3,
+        "product": "가리봉동",
+        "price": 50,
+        "place": "가리봉동 입니다",
+        "img": "./assets/img3.jpg"
+    }
+]
